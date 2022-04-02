@@ -1,14 +1,14 @@
 # Setup
 title:               Sahil Karawade
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+description:         Interested in Alebraic Geometry more specifically Arithmetic Geometry and Moduli spaces
+url:                 https://sahil-karawade.github.io/Sahil/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Sahil Karawade
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
